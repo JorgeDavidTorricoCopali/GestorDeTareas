@@ -56,7 +56,7 @@ Antes de comenzar, asegúrate de tener lo siguiente instalado:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/gestor-de-tareas.git
+   git clone [https://github.com/tu-usuario/gestor-de-tareas.git](https://github.com/JorgeDavidTorricoCopali/GestorDeTareas/tree/08766d406768a169f9cc356fff910fa9df61e92c)
    ```
 
 2. Abre el proyecto en tu IDE preferido.
