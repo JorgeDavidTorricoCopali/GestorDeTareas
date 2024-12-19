@@ -139,13 +139,4 @@ resources/
 2. Crea una rama (`git checkout -b feature/nueva-funcion`).
 3. Realiza un pull request cuando tu función esté lista.
 
----
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
----
-
-¿Necesitas ayuda adicional? ¡Siéntete libre de preguntar!
 
